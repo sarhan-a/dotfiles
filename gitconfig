@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sarhan.alim@gmail.com
+	name = git config user.name
